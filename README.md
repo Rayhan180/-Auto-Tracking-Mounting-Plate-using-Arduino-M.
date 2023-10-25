@@ -1,6 +1,7 @@
 # -Auto-Tracking-Mounting-Plate-using-Arduino-M.
 Here is the Project youtube link: 
 https://www.youtube.com/watch?v=kUTNO0VBBsw
+
 A servo motor, an ultrasonic sensor, and two infrared sensors have been used.
 "Auto-Tracking Mounting Plate using Arduino," combines various hardware components with an Arduino microcontroller to create a system that can automatically track or follow a specific target or object. This type of system is often used in applications such as solar panel tracking, security camera tracking, or even art installations.
 Here's a breakdown of the key components and their roles in this project:
@@ -16,4 +17,3 @@ The general operation of this system typically involves the following steps:
 5. **Feedback Loop:** This process is repeated continuously in a feedback loop, allowing the system to track the target as it moves. The Arduino adjusts the servo motor position as needed to keep the target in the center of the mounting plate.
 This project can be extended and modified for various applications.
 The success of the project depends on the accuracy and speed of the sensors, as well as the precision and responsiveness of the servo motor. The Arduino acts as the control unit that ties all these components together and ensures efficient tracking.
-![104380248_559161154973700_1233866259346727643_n (1)](https://github.com/Rayhan180/-Auto-Tracking-Mounting-Plate-using-Arduino-M./assets/136218406/4c9a1e95-4a09-45d9-980f-d08a5751be39)
